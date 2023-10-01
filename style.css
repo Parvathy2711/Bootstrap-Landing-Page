@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/1392788496/vector/abstract-defocused-black-background-with-gold-particles.jpg?s=612x612&w=0&k=20&c=LeGNK7yzLup-MFXskhiUhpxdTlo5QjTvxveWETHr6Y8=');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+.navbar {
+    background-color: transparent;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-nav .nav-item {
+    padding: 0 10px;
+}
+.navbar-nav .nav-link {
+    color: white;
+}
+.social-icons {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+.social-icons span {
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+}
+section{
+    color:white;
+}
+p{
+    font-size: 15px;
+}
